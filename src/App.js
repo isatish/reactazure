@@ -17,7 +17,7 @@ let name = 'Satish';
   return (
     <div className="App">
       <header className="App-header">
-        <p>Hello Azure</p>
+        <p>Azure Demo</p>
       </header>
       <div className="App-container">
         <input type="text" onChange={onChangeHandler}/>
